@@ -9,6 +9,7 @@ tags:
 Location: Boston, MA
 Website: https://www.bidmc.org/
 Parent: "[[Beth Israel Lahey Health]]"
+boost: 5
 ---
 > [!WARNING] **Multiple Campuses**
 > BI Boston has two disconnected campuses.

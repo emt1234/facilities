@@ -3,9 +3,11 @@ title: BIDMC West Campus
 slug: bidmc-west
 tags:
   - H
+  - F
   - Hospital
-  - Trauma1
+  - Facility
   - ER
+  - Trauma1
 Location: Boston, MA
 ---
 A hospital in Boston.
