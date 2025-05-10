@@ -8,7 +8,6 @@ tags:
   - Trauma1
 Location: Boston, MA
 Website: https://www.bidmc.org/
-path: bidmc.md
 Parent: "[[Beth Israel Lahey Health]]"
 ---
 > [!WARNING] **Multiple Campuses**
